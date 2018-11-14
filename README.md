@@ -1,10 +1,7 @@
 Coding Challenge Guidelines
 ===========================
 
-If you don't have code to share, you can work on our coding challenge described
-below. 
-
-Please organize, design, test, document and deploy your code as if it were
+Please organize, design, test, document your code as if it were
 going into production, then send us a link to the hosted repository (e.g.
 Github, Bitbucket...).
 
@@ -105,10 +102,6 @@ README which code was written by you (as opposed to generated code).
 The front-end app build should ideally be a single `index.html`
 linking to external JS/CSS/etc and assets.
 
-Host it!
---------
-
-When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEngine, etc.).
 
 How will we review?
 -------------------
